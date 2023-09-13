@@ -6,4 +6,4 @@
 
 * UI :
 * 
-   ![UI](https://github.com/Rakib-data-scientist/Encyclopedia-bot/assets/137823730/3758e6c2-9e9d-4b4b-925d-9552eb138498)
+  ![UI](https://github.com/Rakib-data-scientist/Encyclopedia-bot/assets/137823730/7e4cf72d-09db-4d8b-bd82-a01ff18abbda)
